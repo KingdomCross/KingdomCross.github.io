@@ -1,11 +1,15 @@
+body {
+    margin: 0;
+    background: pink;
+    text-align: center;
+}
+
 h1 {
     margin: 0;
     color: red;
-    text-align: center;
 }
 
 h2 {
     margin: 0;
     color: blue;
-    text-align: center;
 }
