@@ -1,15 +1,23 @@
-body {
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
     margin: 0;
-    background: pink;
-    text-align: center;
 }
 
-h1 {
-    margin: 0;
-    color: red;
+.label {
+    background-color: #111;
+    display: flex;
+    border-radius: 50px;
+    height: 26px;
+    width: 50px;
 }
 
-h2 {
-    margin: 0;
-    color: blue;
+.fa-moon-o {
+    color: #f1c40f;
+}
+
+.fa-sun-o {
+    color: #f39c12;
 }
