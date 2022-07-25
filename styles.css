@@ -19,6 +19,9 @@ img {
     width: 500px;
     height: 255px;
 }
+a {
+    color: #FFE66D;
+}
 h1 {
     font-size: 100px;
     line-height: 1;
